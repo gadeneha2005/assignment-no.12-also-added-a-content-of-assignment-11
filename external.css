@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>external css example</title>
+<style>
+h1{
+    color:rgb(255,98,0);
+}
+p{
+    font-size:16px;
+}
+</style>
+</head>
+<body>
+<h1>this is heading</h1>
+<p>this is paragraph</p>
+</body>
+</html>
